@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WebSiteLivepro/static/css/main.f62070a5.css",
+    "main.js": "/WebSiteLivepro/static/js/main.3121b24d.js",
+    "static/media/app.png": "/WebSiteLivepro/static/media/app.227365169ee57a917806.png",
+    "static/media/digital.png": "/WebSiteLivepro/static/media/digital.3b08c421f8c31dddf432.png",
+    "static/media/marketing_1.png": "/WebSiteLivepro/static/media/marketing_1.851cd0b89e5571bed0ba.png",
+    "static/media/software.png": "/WebSiteLivepro/static/media/software.3dfd6a9626bc9448d4b3.png",
+    "index.html": "/WebSiteLivepro/index.html",
+    "main.f62070a5.css.map": "/WebSiteLivepro/static/css/main.f62070a5.css.map",
+    "main.3121b24d.js.map": "/WebSiteLivepro/static/js/main.3121b24d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f62070a5.css",
+    "static/js/main.3121b24d.js"
+  ]
+}
